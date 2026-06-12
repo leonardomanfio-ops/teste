@@ -17,6 +17,7 @@ renomeada **BORDA Cidade Convivência Pesquisa**, gestora do Espaço Comum Luiz 
 | `dom6619_pag8_aldir_blanc_borda.png` | DOM-BH nº 6619, 11/10/2022, pág. 8 | Lei Aldir Blanc — subsídio aprovado, R$ 6.000 |
 | `dom6911_pag10_termo_compromisso_fmc_2023.png` | DOM-BH nº 6911, 23/12/2023, pág. 10 | FMC — "Patrimônio em Processo: Combate a Incêndio e Pânico", R$ 95.000 |
 | `dom7194_pag17_termo_compromisso_fmc.png` | DOM-BH nº 7194, 08/02/2025, pág. 17 | FMC — "Manutenção Espaço Comum Luiz Estrela 2025", R$ 100.000 |
+| `funarte2023_pag30_classificacao_borda.png` | Funarte – Ações Continuadas 2023, Classificação Geral, pág. 30 | Proposta 205251 "Manutenção do Espaço Comum Luiz Estrela 2024" — Módulo C (R$ 500.000), pontuação 43,6 (tentativa de recurso federal) |
 
 ## Fonte de recurso privada (fora dos diários oficiais)
 
